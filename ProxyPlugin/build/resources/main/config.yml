@@ -1,0 +1,15 @@
+# Domyślny adres IP, na który zostanie przeniesiony gracz, 
+# gdy wpisze samą komendę /proxyplugin bez argumentów.
+# tutaj możesz ustawić swój własny adres IP i port (port zwwykle to: 25565)
+default-ip: "test.pl:25565"
+
+
+
+
+
+ #                                        .__               .__        
+#_____________  _______  ______.__.______ |  |  __ __  ____ |__| ____  
+#\____ \_  __ \/  _ \  \/  <   |  |\____ \|  | |  |  \/ ___\|  |/    \ 
+#|  |_> >  | \(  <_> >    < \___  ||  |_> >  |_|  |  / /_/  >  |   |  \
+#|   __/|__|   \____/__/\_ \/ ____||   __/|____/____/\___  /|__|___|  /
+#|__|                     \/\/     |__|             /_____/         \/ by mcmodstudio 

@@ -1,0 +1,12 @@
+main: pl.mcmodstudio.pp.ProxyPlugin
+version: 1.21
+name: ProxyPlugin
+author: mcmodstudio
+description: A Minecraft plugin for proxy without BungeeCord or Velocity.
+api-version: 1.21
+
+commands:
+  proxyplugin:
+    description: Przenosi gracza bezpośrednio na podany adres IP.
+    permission: proxyplugin.use
+    usage: /<command> [ip:port]
